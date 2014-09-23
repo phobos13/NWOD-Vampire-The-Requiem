@@ -1,18 +1,18 @@
 <p style="text-align: center;">
-<img src="https://zonaneutra.files.wordpress.com/2008/11/vampirerequiemlogo.png" style="max-height: 100px;" />
+<img src="https://zonaneutra.files.wordpress.com/2008/11/vampirerequiemlogo.png" style="max-height: 100px;"/>
 </p>
 <div class="sheet-3colrow">
-    <div class="sheet-col" style="font-family: Cezanne; font-size: 18px">
+    <div class="sheet-col" style="font-family: Cezanne; font-size: 26px">
         <label>Nome:</label><input type="text" name="attr_Nome" />
         <label>Jogador:</label><input type="text" name="attr_Jogador" />
         <label>Crônica:</label><input type="text" name="attr_Crônica" />
     </div>
-    <div class="sheet-col" style="font-family: Cezanne; font-size: 18px">
+    <div class="sheet-col" style="font-family: Cezanne; font-size: 26px">
         <label>Conceito:</label><input type="text" name="attr_Conceito" />
         <label>Virtude:</label><input type="text" name="attr_Virtude" />
         <label>Vício:</label><input type="text" name="attr_Vício" />
     </div>
-    <div class="sheet-col" style="font-family: Cezanne; font-size: 18px">
+    <div class="sheet-col" style="font-family: Cezanne; font-size: 26px">
         <label>Clã:</label><input type="text" name="attr_Clã" />
         <label>Coalizão:</label><input type="text" name="attr_Coalizão" />
         <label>Coterie:</label><input type="text" name="attr_Coterie" />
@@ -21,24 +21,24 @@
 
 <hr/>
 
-<h1 style="text-align: center; font-family: Cezanne;">Atributos</h1>
+<p style="text-align: center; font-family: Cezanne; font-size: 40px;">Atributos</p>
 
 <div class="sheet-3colrow">
-    <div class="sheet-col" style="font-size: 18px">
-        <h3 style="text-align: center; font-family: Cezanne;">Mentais</h3>
+    <div class="sheet-col">
+        <h3 style="text-align: center; font-family: Cezanne; font-size: 30px">Mentais</h3>
     </div>
     <div class="sheet-col">
-        <h3 style="text-align: center; font-family: Cezanne;">Físicas</h3>
+        <h3 style="text-align: center; font-family: Cezanne; font-size: 30px">Físicas</h3>
     </div>
     <div class="sheet-col">
-        <h3 style="text-align: center; font-family: Cezanne;">Sociais</h3>
+        <h3 style="text-align: center; font-family: Cezanne; font-size: 30px">Sociais</h3>
     </div>
 </div>
 <div class="sheet-colrow" >
-    <div class="sheet-col" style="width:115px; font-size: 20px">
-        <h4 style="font-family: Cezanne">Inteligência</h4>
-        <h4 style="font-family: Cezanne">Raciocínio</h4>
-        <h4 style="font-family: Cezanne">Perseverança</h4>
+    <div class="sheet-col" style="width:115px;">
+        <h4>Inteligência</h4>
+        <h4>Raciocínio</h4>
+        <h4 >Perseverança</h4>
     </div>
     <div class="sheet-col" style="width:150px;">
         <input type="radio" name="attr_Inteligência" value="1" checked="checked" /><span></span>    <input type="radio" name="attr_Inteligência" value="2"/><span></span> <input type="radio" name="attr_Inteligência" value="3"/><span></span> <input type="radio" name="attr_Inteligência" value="4"/><span></span> <input type="radio" name="attr_Inteligência" value="5"/><span></span>
@@ -50,9 +50,9 @@
         </div>
     </div>
     <div class="sheet-col" style="width:120px; font-size: 20px">
-        <h4 style="font-family: Cezanne">Força</h4>
-        <h4 style="font-family: Cezanne">Destreza</h4>
-        <h4 style="font-family: Cezanne">Vigor</h4>
+        <h4>Força</h4>
+        <h4>Destreza</h4>
+        <h4>Vigor</h4>
     </div>
     <div class="sheet-col" style="width:150px">
             <input type="radio" name="attr_Força" value="1" checked="checked" /><span></span>    <input type="radio" name="attr_Força" value="2"/><span></span> <input type="radio" name="attr_Força" value="3"/><span></span> <input type="radio" name="attr_Força" value="4"/><span></span> <input type="radio" name="attr_Força" value="5"/><span></span>
@@ -64,9 +64,9 @@
         </div>
     </div>
     <div class="sheet-col" style="width:105px; font-size: 20px">
-        <h4 style="font-family: Cezanne">Presença</h4>
-        <h4 style="font-family: Cezanne">Manipulação</h4>
-        <h4 style="font-family: Cezanne">Autocontrole</h4>
+        <h4>Presença</h4>
+        <h4>Manipulação</h4>
+        <h4>Autocontrole</h4>
     </div>
     <div class="sheet-col" style="width:160px" align="right">
         <input type="radio" name="attr_Presença" value="1" checked="checked" /><span></span>    <input type="radio" name="attr_Presença" value="2"/><span></span> <input type="radio" name="attr_Presença" value="3"/><span></span> <input type="radio" name="attr_Presença" value="4"/><span></span> <input type="radio" name="attr_Presença" value="5"/><span></span>
@@ -84,18 +84,18 @@
 
 <hr/>
 
-<h1 style="margin-bottom: 10px; text-align: center; font-family: Cezanne">Habilidades</h1>
+<p style="margin-bottom: 10px; text-align: center; font-family: Cezanne; font-size: 40px;">Habilidades</p>
 <div class="sheet-3colrow">
-    <div class="sheet-col" style= "font-family: Cezanne">
-        <h2 style="text-align: center">Mentais</h2>
+    <div class="sheet-col">
+        <h2 style="text-align: center; font-size: 40px; font-family: Cezanne">Mentais</h2>
         <h4 style="text-align: center">(-3 se inepto)</h4>
     </div>
-    <div class="sheet-col" style= "font-family: Cezanne;">
-        <h2 style="text-align: center" >Físicas</h2>
+    <div class="sheet-col">
+        <h2 style="text-align: center; font-size: 40px; font-family: Cezanne" >Físicas</h2>
         <h4 style="text-align: center">(-1 se inepto)</h4>
     </div>
-    <div class="sheet-col" style= "font-family: Cezanne;">
-        <h2 style="text-align: center">Sociais</h2>
+    <div class="sheet-col">
+        <h2 style="text-align: center; font-size: 40px; font-family: Cezanne">Sociais</h2>
         <h4 style="text-align: center">(-1 se inepto)</h4>
     </div>
 </div>
@@ -205,6 +205,7 @@
     </div>
 </div>
 <div class="sheet-3colrow">
+<br>
     <div class="sheet-col">
         <h4 style="text-align: center">Especializações</h4>
         <textarea name="attr_spec_mental" style="width:230px; height:50px"></textarea>
@@ -220,11 +221,11 @@
 </div>
 <hr/>
 
-<h1 style="margin-bottom: 10px; text-align: center; font-family: Cezanne">Outras Características</h1>
+<p style="margin-bottom: 10px; text-align: center; font-family: Cezanne; font-size: 40px">Outras Características</p>
 
 <div class="sheet-3colrow">
     <div class="sheet-col">
-        <h2 style="text-align: center; font-family: Cezanne">Diciplinas</h2>
+        <h2 style="text-align: center; font-family: Cezanne">Disciplinas</h2>
     </div>
     <div class="sheet-col">
         <h2 style="text-align: center; font-family: Cezanne">Vantagens</h2>
@@ -235,41 +236,41 @@
 </div>
 <div class="sheet-colrow">
     <div class="sheet-col" style="width:120px">
-        <input type="text" name="attr_Dicipline1Name" style="width:125px"/>
-        <input type="text" name="attr_Dicipline2Name" style="width:125px"/>
-        <input type="text" name="attr_Dicipline3Name" style="width:125px"/>
-        <input type="text" name="attr_Dicipline4Name" style="width:125px"/>
-        <input type="text" name="attr_Dicipline5Name" style="width:125px"/>
-        <input type="text" name="attr_Dicipline6Name" style="width:125px"/>
-        <input type="text" name="attr_Dicipline7Name" style="width:125px"/>
-        <input type="text" name="attr_Dicipline8Name" style="width:125px"/>
-        <input type="text" name="attr_Dicipline9Name" style="width:125px"/>
+        <input type="text" name="attr_Discipline1Name" style="width:125px"/>
+        <input type="text" name="attr_Discipline2Name" style="width:125px"/>
+        <input type="text" name="attr_Discipline3Name" style="width:125px"/>
+        <input type="text" name="attr_Discipline4Name" style="width:125px"/>
+        <input type="text" name="attr_Discipline5Name" style="width:125px"/>
+        <input type="text" name="attr_Discipline6Name" style="width:125px"/>
+        <input type="text" name="attr_Discipline7Name" style="width:125px"/>
+        <input type="text" name="attr_Discipline8Name" style="width:125px"/>
+        <input type="text" name="attr_Discipline9Name" style="width:125px"/>
     </div>
     <div class="sheet-col" style="width:170x; line-height:28px">
-        <input type="radio" name="attr_Dicipline1" value="0" class=" zero" checked/><span></span> <input type="radio" name="attr_Dicipline1" value="1" /><span></span>    <input type="radio" name="attr_Dicipline1" value="2" /><span></span>    <input type="radio" name="attr_Dicipline1" value="3" /><span></span>    <input type="radio" name="attr_Dicipline1" value="4" /><span></span>    <input type="radio" name="attr_Dicipline1" value="5" /><span></span>
+            <input type="radio" name="attr_Discipline1" value="0" class=" zero" checked/><span></span> <input type="radio" name="attr_Discipline1" value="1" /><span></span>    <input type="radio" name="attr_Discipline1" value="2" /><span></span>    <input type="radio" name="attr_Discipline1" value="3" /><span></span>    <input type="radio" name="attr_Discipline1" value="4" /><span></span>    <input type="radio" name="attr_Discipline1" value="5" /><span></span>
         <div class="sheet-row">
-            <input type="radio" name="attr_Dicipline2" value="0" class=" zero" checked/><span></span> <input type="radio" name="attr_Dicipline2" value="1" /><span></span>    <input type="radio" name="attr_Dicipline2" value="2" /><span></span>    <input type="radio" name="attr_Dicipline2" value="3" /><span></span>    <input type="radio" name="attr_Dicipline2" value="4" /><span></span>    <input type="radio" name="attr_Dicipline2" value="5" /><span></span>
+            <input type="radio" name="attr_Discipline2" value="0" class=" zero" checked/><span></span> <input type="radio" name="attr_Discipline2" value="1" /><span></span>    <input type="radio" name="attr_Discipline2" value="2" /><span></span>    <input type="radio" name="attr_Discipline2" value="3" /><span></span>    <input type="radio" name="attr_Discipline2" value="4" /><span></span>    <input type="radio" name="attr_Discipline2" value="5" /><span></span>
         </div>
         <div class="sheet-row">
-            <input type="radio" name="attr_Dicipline3" value="0" class=" zero" checked/><span></span> <input type="radio" name="attr_Dicipline3" value="1" /><span></span>    <input type="radio" name="attr_Dicipline3" value="2" /><span></span>    <input type="radio" name="attr_Dicipline3" value="3" /><span></span>    <input type="radio" name="attr_Dicipline3" value="4" /><span></span>    <input type="radio" name="attr_Dicipline3" value="5" /><span></span>
+            <input type="radio" name="attr_Discipline3" value="0" class=" zero" checked/><span></span> <input type="radio" name="attr_Discipline3" value="1" /><span></span>    <input type="radio" name="attr_Discipline3" value="2" /><span></span>    <input type="radio" name="attr_Discipline3" value="3" /><span></span>    <input type="radio" name="attr_Discipline3" value="4" /><span></span>    <input type="radio" name="attr_Discipline3" value="5" /><span></span>
         </div>
         <div class="sheet-row">
-            <input type="radio" name="attr_Dicipline4" value="0" class=" zero" checked/><span></span> <input type="radio" name="attr_Dicipline4" value="1" /><span></span>    <input type="radio" name="attr_Dicipline4" value="2" /><span></span>    <input type="radio" name="attr_Dicipline4" value="3" /><span></span>    <input type="radio" name="attr_Dicipline4" value="4" /><span></span>    <input type="radio" name="attr_Dicipline4" value="5" /><span></span>
+            <input type="radio" name="attr_Discipline4" value="0" class=" zero" checked/><span></span> <input type="radio" name="attr_Discipline4" value="1" /><span></span>    <input type="radio" name="attr_Discipline4" value="2" /><span></span>    <input type="radio" name="attr_Discipline4" value="3" /><span></span>    <input type="radio" name="attr_Discipline4" value="4" /><span></span>    <input type="radio" name="attr_Discipline4" value="5" /><span></span>
         </div>
         <div class="sheet-row">
-            <input type="radio" name="attr_Dicipline5" value="0" class=" zero" checked/><span></span> <input type="radio" name="attr_Dicipline5" value="1" /><span></span>    <input type="radio" name="attr_Dicipline5" value="2" /><span></span>    <input type="radio" name="attr_Dicipline5" value="3" /><span></span>    <input type="radio" name="attr_Dicipline5" value="4" /><span></span>    <input type="radio" name="attr_Dicipline5" value="5" /><span></span>
+            <input type="radio" name="attr_Discipline5" value="0" class=" zero" checked/><span></span> <input type="radio" name="attr_Discipline5" value="1" /><span></span>    <input type="radio" name="attr_Discipline5" value="2" /><span></span>    <input type="radio" name="attr_Discipline5" value="3" /><span></span>    <input type="radio" name="attr_Discipline5" value="4" /><span></span>    <input type="radio" name="attr_Discipline5" value="5" /><span></span>
         </div>
         <div class="sheet-row">
-            <input type="radio" name="attr_Dicipline6" value="0" class=" zero" checked/><span></span> <input type="radio" name="attr_Dicipline6" value="1" /><span></span>    <input type="radio" name="attr_Dicipline6" value="2" /><span></span>    <input type="radio" name="attr_Dicipline6" value="3" /><span></span>    <input type="radio" name="attr_Dicipline6" value="4" /><span></span>    <input type="radio" name="attr_Dicipline6" value="5" /><span></span> 
+            <input type="radio" name="attr_Discipline6" value="0" class=" zero" checked/><span></span> <input type="radio" name="attr_Discipline6" value="1" /><span></span>    <input type="radio" name="attr_Discipline6" value="2" /><span></span>    <input type="radio" name="attr_Discipline6" value="3" /><span></span>    <input type="radio" name="attr_Discipline6" value="4" /><span></span>    <input type="radio" name="attr_Discipline6" value="5" /><span></span> 
         </div>
         <div class="sheet-row">
-            <input type="radio" name="attr_Dicipline7" value="0" class=" zero" checked/><span></span> <input type="radio" name="attr_Dicipline7" value="1" /><span></span>    <input type="radio" name="attr_Dicipline7" value="2" /><span></span>    <input type="radio" name="attr_Dicipline7" value="3" /><span></span>    <input type="radio" name="attr_Dicipline7" value="4" /><span></span>    <input type="radio" name="attr_Dicipline7" value="5" /><span></span> 
+            <input type="radio" name="attr_Discipline7" value="0" class=" zero" checked/><span></span> <input type="radio" name="attr_Discipline7" value="1" /><span></span>    <input type="radio" name="attr_Discipline7" value="2" /><span></span>    <input type="radio" name="attr_Discipline7" value="3" /><span></span>    <input type="radio" name="attr_Discipline7" value="4" /><span></span>    <input type="radio" name="attr_Discipline7" value="5" /><span></span> 
         </div>
         <div class="sheet-row">
-            <input type="radio" name="attr_Dicipline8" value="0" class=" zero" checked/><span></span> <input type="radio" name="attr_Dicipline8" value="1" /><span></span>    <input type="radio" name="attr_Dicipline8" value="2" /><span></span>    <input type="radio" name="attr_Dicipline8" value="3" /><span></span>    <input type="radio" name="attr_Dicipline8" value="4" /><span></span>    <input type="radio" name="attr_Dicipline8" value="5" /><span></span> 
+            <input type="radio" name="attr_Discipline8" value="0" class=" zero" checked/><span></span> <input type="radio" name="attr_Discipline8" value="1" /><span></span>    <input type="radio" name="attr_Discipline8" value="2" /><span></span>    <input type="radio" name="attr_Discipline8" value="3" /><span></span>    <input type="radio" name="attr_Discipline8" value="4" /><span></span>    <input type="radio" name="attr_Discipline8" value="5" /><span></span> 
         </div>
         <div class="sheet-row">
-            <input type="radio" name="attr_Dicipline9" value="0" class=" zero" checked/><span></span> <input type="radio" name="attr_Dicipline9" value="1" /><span></span>    <input type="radio" name="attr_Dicipline9" value="2" /><span></span>    <input type="radio" name="attr_Dicipline9" value="3" /><span></span>    <input type="radio" name="attr_Dicipline9" value="4" /><span></span>    <input type="radio" name="attr_Dicipline9" value="5" /><span></span> 
+            <input type="radio" name="attr_Discipline9" value="0" class=" zero" checked/><span></span> <input type="radio" name="attr_Discipline9" value="1" /><span></span>    <input type="radio" name="attr_Discipline9" value="2" /><span></span>    <input type="radio" name="attr_Discipline9" value="3" /><span></span>    <input type="radio" name="attr_Discipline9" value="4" /><span></span>    <input type="radio" name="attr_Discipline9" value="5" /><span></span> 
         </div>
     </div>
     <div class="sheet-col" style="width:40px">
@@ -515,6 +516,7 @@
     </div>
     <br><br>
     <br>
-    <h2 align="center" style= "font-family: Cezanne">Notes</h2>
+    <br>
+    <h2 align="center" style= "font-family: Cezanne">Notas</h2>
     <textarea name="attr_notes" style="width:260px; height:120px"></textarea>
 </div>
