@@ -8,6 +8,10 @@
 .charsheet input {
     display: inline-block;
     width: 155px;
+    background: transparent;
+    border:        0;
+    border-bottom: 1px solid #000;
+    border-radius: 0;
 }
 
 .charsheet {
@@ -19,8 +23,15 @@
     background-attachment: static;*/
 }
 
-.charsheet select {
-    width: 42px;
+/*SELECT STYLE*/
+.sheet-bobba {
+    width: 150px;
+    padding:3px;
+    margin: 0;
+    background: #f8f8f8;
+    color:#888;
+    display: inline-block;
+    cursor:pointer;
 }
 
 /* Hide actual dot/checkbox */
@@ -208,3 +219,29 @@ input.sheet-CorC2:checked ~ h4.sheet-CorC2
 {
     display: none;
 }
+
+p, h1, h2, h3, label{
+    color: #800000;
+}
+
+/*------------------NEW: REPEATING HEALTH BOX ADD - STYLED --------------------------*/
+
+/*.sheet-health-label,
+.sheet-health-value,
+{
+    -moz-box-shadow:    none;
+    -webkit-box-shadow: none;
+    box-shadow:         none;
+
+    background: transparent;
+
+    border:        0;
+    border-bottom: 1px solid #000;
+    border-radius: 0;
+
+    vertical-align: baseline;
+}
+
+.sheet-health-label,.sheet-health-value { width: 47px; }
+.sheet-health-value { float: right; }
+select.sheet-health-value { float: none; }*/
